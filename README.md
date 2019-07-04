@@ -1,3 +1,22 @@
+# The Crypto Seeder
+
+This would not be possible without code from a lot of other OpenSource projects. All I have done here is joined together some great projects to create a cryptocurrency faucet with a difference.
+
+- **TheAviator** by Karim (Github @yakudoo)
+- **PHP LitecoinRPC** by majestic84
+- Various stackoverflow responses
+
+## How it works
+
+Once 
+
+## Setup
+
+## Contact/Help
+
+==
+** Original ReadMe below **
+==
 # The Aviator
 
 Demos and game for the tutorial "The Making of 'The Aviator': Animating a Basic 3D Scene with Three.js", by Karim Maaloul.
